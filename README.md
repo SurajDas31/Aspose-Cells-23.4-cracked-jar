@@ -1,6 +1,6 @@
 # Aspose-Cells-23.4-cracked-jar
 
-First add in your Java project or maven dependency.
+First add jar in your Java project or maven dependency.
 Before using their method we have to authorized first. So, below code is used to authorized with the jar.
 
     public static boolean authorizeLicense() {
